@@ -1,5 +1,26 @@
 
-h1 {font-size: 50 pt;
+h1 {padding: 0px;
+    font-size: 70pt;
     font-style: normal;
     font-family: sans-serif;
-    font: Helvetica;}
+    font: Helvetica;
+    vertical-align: middle}
+
+img {vertical-align: middle}
+
+.main-nav {
+color: white;
+}
+
+a {font-size: 20pt;
+    margin-left: 20px;
+    padding: 10px;}
+
+
+
+.center {text-align: center;
+        }
+
+center {
+    
+}
