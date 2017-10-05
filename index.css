@@ -24,3 +24,57 @@ a {font-size: 20pt;
 center {
     
 }
+
+body {border: solid; color: red; border-style: double; border-width: 20px; background-color: black
+}
+
+video {margin: 15px;
+        
+
+}
+
+p { margin: 12px;
+    color: white;
+    font-size: 15pt;
+}
+
+ul {
+    margin: 12px;
+
+}
+
+li {
+    color: white
+}
+
+p2 {
+}
+
+p3 {
+    color: white; margin-left: 12px;
+}
+
+img2 {
+}
+
+p1 {
+    color: white; margin-left: 12px
+        
+}
+
+h2 {
+    color: white; align-content: center; margin: 12px;
+        
+}
+
+h3 {
+    color: white
+}
+
+h6 {
+    display: inline
+}
+
+h5 {margin-left: 5px;
+    display: inline
+}
